@@ -6,6 +6,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Eu gosto de coxinha que é vendida em metrô.
 
-![seunome's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=dark)
+![ZoahZOah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZoahZoah&show_icons=true&theme=dark)
 
 ![ononoki_yotsugi](https://wall.alphacoders.com/big.php?i=827051&lang=Portuguese)
